@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I am interested in learning Computer Science!
+- I am currently learning Java through my school's APCSA class
+- I like playing ROBLOX with my friends :)
+  - especially Volleyball Legends!!
+- I really like cats
+
 <!--
 **yufeiwu09/yufeiwu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
